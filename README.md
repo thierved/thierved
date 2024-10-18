@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thierved
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning VueJS
-- 💞️ I’m looking for junior frontend job.
+- 💞️ I’m looking for frontend jobs.
 - 📫 You can reach me at thierved01@gmail.com
 
 <!---
